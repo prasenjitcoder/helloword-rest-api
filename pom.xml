@@ -16,7 +16,7 @@
 	<packaging>war</packaging>
 	<name>helloworldwebapp</name>
 	<properties>
-		<moduleName>healthcheck</moduleName>
+		<moduleName>helloworldwebapp</moduleName>
 	</properties>
 	
 	<dependencies>
